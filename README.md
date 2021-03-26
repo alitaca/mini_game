@@ -9,7 +9,7 @@ Se o jogador acerta uma letra na palavra-segredo, a letra aparecerá no(s) espa�
 O jogador vence se acertar todas as letras da palavra-segredo, mas perde se o avatar completar as 6 partes do corpo (1 cabeça, 1 tronco, 2 braços e 2 pernas).
 
 #### Notas:
-- O jogo só aceita letras (de <u>a</u> a <u>z</u>)
-- Acentos não são considerados (<u>á</u> é equivalente a <u>a</u>)
+- O jogo só aceita letras (de <u>'a'</u> a <u>'z'</u>)
+- Acentos não são considerados (<u>'á'</u> é equivalente a <u>'a'</u>)
     
 # Bom jogo!
