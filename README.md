@@ -1,1 +1,11 @@
-# mini_game
+# Bem-vindo ao Jogo da Forca!
+
+## Regras gerais
+
+A palavra-segredo a ser adivinhada é representada por uma fila de traços. Cada traço corresponde a uma letra da palavra-segredo. Se o jogador acerta uma letra na palavra-segredo, a letra aparecerá no(s) espaço(s) correspondente(s). Se a letra informada pelo jogador não está contida na palavra-segredo, o avatar "ganha" um pedaço do corpo na forca. O jogador vence se acertar todas as letras da palavra-segredo, mas perde se o avatar completar as 6 partes do corpo (1 cabeça, 1 tronco, 2 braços e 2 pernas).
+
+#### Notas:
+- O jogo só aceita letras (de <s>a<\s> a <s>z<\s>)
+- Acentos não são considerados (<s>á<\s> é equivalente a <s>a<\s>)
+    
+# Bom jogo!
